@@ -10,7 +10,7 @@ Taipei Day Trip is an e-commerce travel platform dedicated to providing over 50 
 ## Expertise in AWS Deployment
 We specialize in deploying and maintaining web applications on AWS, leveraging EC2 instances for web and application tiers, and RDS for efficient database management. Our approach ensures scalability, reliability, and adherence to best practices for security and performance.
 
-For more information and to plan your next adventure in Taipei, visit [Taipei Day Trip](https://example.com).
+For more information and to plan your next adventure in Taipei, visit [Taipei Day Trip](https://sptaipeidaytrip.leechih.us/).
 
 ## Table of Contents
 
