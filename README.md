@@ -23,15 +23,15 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
  - [Contact](#contact)
 
 ## Built With <a name= "built_with"></a>
-- **Front-end Technologies**
+#### Front-end Technologies**
  - HTML
  - CSS
  - JavaScript
-- Back-end technologies
+#### Back-end technologies
  - Flask
-- Database
- - MySql
-- AWS
+#### Database
+ - MySq
+#### AWS
  - EC2
  - RDS
 
