@@ -23,7 +23,17 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
  - [Contact](#contact)
 
 ## Built With <a name= "built_with"></a>
-
+- **Front-end Technologies**
+ - HTML
+ - CSS
+ - JavaScript
+- Back-end technologies
+ - Flask
+- Database
+ - MySql
+- AWS
+ - EC2
+ - RDS
 
 ## Architecture Diagram <a name = "architecture_diagram">
 <img src="https://github.com/j22868706/taipeiDayTrip/blob/main/demo/Architecture%20Diagram.png" alt="architecture diagram" width="500" height ="500">
