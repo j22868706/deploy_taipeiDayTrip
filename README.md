@@ -48,7 +48,7 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
   |-|-|
   | ------ | ------ |
   | E-mail | test01@gmail.com |
-  | Password | test01 |
+  | Password | test |
 * **Testing Credit Card Information - TapPay**:
 
   |-|-|
