@@ -79,3 +79,5 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
  - integrate features to manage order and membership systems.
 
 ## Contact <a name="contact">
+- Name: Hungchih Lee
+- Email: j22868706@gmail.com
