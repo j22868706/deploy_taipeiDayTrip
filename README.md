@@ -36,7 +36,7 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
  - RDS
 
 ## Architecture Diagram <a name = "architecture_diagram">
-<img src="https://github.com/j22868706/taipeiDayTrip/blob/main/demo/Architecture%20Diagram.png" alt="architecture diagram" width="500" height ="500">
+<img src="https://github.com/j22868706/taipeiDayTrip/blob/main/static/images/taipeidaytrip%20Diagram.jpg" alt="architecture diagram" width="500" height ="500">
 
 ## Database Schema <a name = "database_schema">
 <img src="https://github.com/j22868706/taipeiDayTrip/blob/main/demo/ER%20diagram.png" alt="database schema" width = "500" height = "500" >
@@ -47,7 +47,7 @@ For more information and to plan your next adventure in Taipei, visit [Taipei Da
 
   |-|-|
   | ------ | ------ |
-  | E-mail | test01@gmail.com |
+  | E-mail | test1@gmail.com |
   | Password | test |
 * **Testing Credit Card Information - TapPay**:
 
